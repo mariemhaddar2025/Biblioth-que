@@ -1,14 +1,27 @@
-# Book Store E-Commerce website using PHP and MySQL
-View Project:https://softback-store.000webhostapp.com/index.php  
-View Project video: https://www.youtube.com/watch?v=g6Mw-HAAUbU
-### Technologies used:
-HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, Apache.
-## To run this on your localhost:
-1. Install xampp software  
-2. Start Apache and MySQL  
-6. Clone this repo into `C:\xampp\htdocs` in windows or relevent folder in your os. If using wamp, clone in www folder.
-3. Open browser and go to localhost - > phpmyadmin page  
-4. Add a new db named 'ecom'.  
-5. Go the the Import tab and import the `ecom.sql.zip` file.   
-7. Go to http://localhost/ecom/landing/lp.php  
+# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
+[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
+## Getting Started
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
+* Fork the repo
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
